@@ -4,6 +4,10 @@ This project demonstrates real-world data cleaning and transformation using Exce
 The raw dataset contained highly inconsistent, messy loan records stored in a single column with mixed delimiters, formats, currencies, dates, and text patterns.
 
 Preview:
+Before
+<img width="1277" height="625" alt="RawLoanData" src="https://github.com/user-attachments/assets/76b20b3d-e415-4a7e-8476-bb0a5eb46688" />
+
+After
 <img width="1316" height="708" alt="CleanLoanData" src="https://github.com/user-attachments/assets/817ab50b-53a6-47dd-86dc-2f6c18df52ec" />
 
 
