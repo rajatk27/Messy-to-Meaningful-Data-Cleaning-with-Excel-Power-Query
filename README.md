@@ -3,6 +3,11 @@
 This project demonstrates real-world data cleaning and transformation using Excel Power Query.
 The raw dataset contained highly inconsistent, messy loan records stored in a single column with mixed delimiters, formats, currencies, dates, and text patterns.
 
+Preview:
+<img width="1316" height="708" alt="CleanLoanData" src="https://github.com/user-attachments/assets/817ab50b-53a6-47dd-86dc-2f6c18df52ec" />
+
+
+
 Using Power Query, the data was cleaned, standardized, and transformed into a structured, analysis-ready table.
 
 
