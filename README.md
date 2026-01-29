@@ -33,11 +33,13 @@ Using Power Query, the data was cleaned, standardized, and transformed into a st
 
 --Power Query (M Language)
 
+
 🔄 Data Cleaning & Transformation Steps
 
 --Key transformations performed in Power Query:
 
 --Split raw text into columns using conditional delimiters
+
 
 Extracted and standardized:
 
@@ -71,15 +73,23 @@ City
 
 --Suitable for real-world banking or finance use cases
 
+
 Final Columns:
 
 Loan ID
+
 Name
+
 Loan Amount
+
 ROI (%)
+
 Date
+
 Tenure (Months)
+
 Loan Status
+
 City
 
 
