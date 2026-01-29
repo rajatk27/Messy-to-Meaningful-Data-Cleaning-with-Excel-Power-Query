@@ -29,9 +29,9 @@ Using Power Query, the data was cleaned, standardized, and transformed into a st
 
 🛠 Tools & Technologies Used
 
-Microsoft Excel
+--Microsoft Excel
 
-Power Query (M Language)
+--Power Query (M Language)
 
 🔄 Data Cleaning & Transformation Steps
 
@@ -40,6 +40,7 @@ Power Query (M Language)
 --Split raw text into columns using conditional delimiters
 
 Extracted and standardized:
+
 Loan ID
 Customer Name
 Loan Amount
@@ -71,6 +72,7 @@ City
 --Suitable for real-world banking or finance use cases
 
 Final Columns:
+
 Loan ID
 Name
 Loan Amount
@@ -79,6 +81,7 @@ Date
 Tenure (Months)
 Loan Status
 City
+
 
 🎯 Key Takeaways
 
